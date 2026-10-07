@@ -43,4 +43,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter and Gradle generated files
+/android/build/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/ephemeral/
+/ios/Runner/GeneratedPluginRegistrant.*
 .env
